@@ -1,18 +1,14 @@
 ---
 title: Main Page
 ---
-Hello! My name is *Little9070*, or just *Little* for short.
+Hello! PvZ Workshop is a PvZ Mod inspired by E&E, This is still a very heavy **W**ork **I**n **P**rogress, so, many bugs and glitches are to be expected and lots of changes and new additions are on the way!
 
-I enjoy ripping music from video games, photography, Plants vs. Zombies, and programming.
+This mod *is* widescreen, I may provide a 4:3 version in the far future.
 
-# Featured articles
+# Important links
 
-- [Photography](https://little9070.github.io/Little9070s-stuff/Photography)
+- [Patch Notes](tbd)
 
-- TBD
+- [Download](tbd)
 
-- Smile!
-
-# Contacts
-
-If you need to contact me for a question, site issue, etc, join the Discord server in the top left corner. (broken on mobile for unknown reasons)
+- [Credits](tbd)
