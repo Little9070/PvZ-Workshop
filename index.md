@@ -15,3 +15,7 @@ This mod *is* widescreen, I may provide a 4:3 version in the far future.
 - [Download](Download)
 
 - [Credits](Credits)
+
+# Contacts
+
+If you need to contact me with a bug, suggestion, question, etc. DM me at "Little9070#3932".
