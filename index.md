@@ -8,8 +8,8 @@ This mod *is* widescreen, I may provide a 4:3 version in the far future.
 # Important links
 
 
-- [Patch Notes](tbd)
+- [Patch Notes](Patch_Notes)
 
-- [Download](tbd)
+- [Download](Download)
 
 - [Credits](Credits)
