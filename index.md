@@ -1,7 +1,7 @@
 ---
 title: Main Page
 ---
-Hello! PvZ Workshop is a PvZ Mod inspired by E&E, This is still a very heavy **W**ork **I**n **P**rogress, so, many bugs and glitches are to be expected and lots of changes and new additions are on the way!
+Hello! PvZ Workshop is a PvZ Mod inspired by E&E (Expanded and Enhanced), This is still a very heavy **W**ork **I**n **P**rogress, so, many bugs and glitches are to be expected and lots of changes and new additions are on the way!
 
 This mod *is* widescreen, I may provide a 4:3 version in the far future.
 
