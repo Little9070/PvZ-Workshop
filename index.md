@@ -12,4 +12,4 @@ This mod *is* widescreen, I may provide a 4:3 version in the far future.
 
 - [Download](tbd)
 
-- [Credits](tbd)
+- [Credits](Credits)
