@@ -5,6 +5,6 @@ permalink: /Download.html
 
 # Latest Build
 
-Here is the latest version of PvZ Workshop!
+You can get the latest build of PvZ Workshop [here](https://www.mediafire.com/file/0x1o5s4pvhvqqno/PvZ_Workshop_Version_0.1.0.zip/file)! (Version 0.1.0)
 
-linktobuildhere
+You can view all the latest patch notes [here](Patch_Notes)!
